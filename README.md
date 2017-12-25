@@ -1,1 +1,1 @@
-# getblock-algorithm
+the program contains all five scanarios of getBlcok algorithm.this algorithm is present in Design of Unix Operating System by Maurice Batch.I have taken a reference from that book and created a c impplementaion of that algorithm.if you find any errors in program please let me know.you can contact me through my website provided in my bio.
